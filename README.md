@@ -7,7 +7,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Software+Developer;Crafting+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </p>
-
+<!-- YOUR REAL PHOTO -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eff5527e-8d56-4cdd-b4c6-3a223aa0c309" width="300" style="border-radius: 20px;" />
+</p>
 
 
 
