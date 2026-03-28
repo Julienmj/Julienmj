@@ -8,10 +8,7 @@
   </a>
 </p>
 
-<!-- YOUR REAL PHOTO -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/eff5527e-8d56-4cdd-b4c6-3a223aa0c309" width="300" style="border-radius: 20px;" />
-</p>
+
 
 
 ---
