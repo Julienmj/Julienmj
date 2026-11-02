@@ -56,16 +56,15 @@
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:julienmugisha1@gmail.com" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25" height="25"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mugisha-julien-24a87a263/" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25" height="25"/>
-  </a>
+## 🌐 Connect With Me  
+<p align="center">  
+  <a href="mailto:julienmugisha1@gmail.com" target="_blank">  
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25" height="25"/>  
+  </a>  
+  &nbsp;&nbsp;  
+  <a href="https://www.linkedin.com/in/mugisha-julien-24a87a263/" target="_blank">  
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25" height="25"/>  
+  </a>  
 </p>
----
 
 <p align="center">🔥 Thanks for visiting — let’s build something amazing! 🔥</p>
