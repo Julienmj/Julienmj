@@ -56,13 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">  
-  <img src="https://streak-stats.demolab.com?user=Julienmj&theme=github-dark-blue" alt="Julien's GitHub streak" />  
-</p>
-
----
-
 ## 🌐 Connect With Me  
 <p align="center">  
   <a href="mailto:julienmugisha1@gmail.com" target="_blank">  
