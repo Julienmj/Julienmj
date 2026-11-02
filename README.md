@@ -21,11 +21,16 @@
 
 ---
 
-## ⚙️ Frameworks & Libraries  
+## ## ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35" height="35"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35" height="35"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35" height="35"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35" height="35"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35" height="35"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="35" height="35"/>
 </p>
 
